@@ -5,7 +5,7 @@ class Life:
     
     part of BGP
     """
-    def __init__(self, filename):
+    def __init__(self, filename:str):
         """Create a game of life object
     
         Args:
@@ -36,13 +36,11 @@ class Life:
                 self.grid[y + 1][x + 1] = 1
 
     
-    def tick_grid(self,n):
+    def tick_grid(self,n:int=1):
         """Applies the rules of Game of Life for specified number of generations.
     
         Args:
-        n: Number of generations
-    
-        
+        n: Number of generations      
         """
         for i in range(n):
             for y,row in enumerate(self.grid[1:-1]):
