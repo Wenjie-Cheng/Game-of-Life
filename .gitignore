@@ -2,3 +2,4 @@
 .virtual_documents/
 *.lprof
 mprofile_*.dat
+__pycache__/
