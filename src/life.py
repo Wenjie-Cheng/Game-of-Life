@@ -58,3 +58,13 @@ class Life:
             self.extgrid [y+1] = curr
 
         self.grid = [row[1:-1] for row in self.extgrid[1:-1]]
+
+    def write_grid(self,filename:str="grid.txt"):
+        """Write grid to a given text file
+
+        Args:
+        filename: Given output file name
+        """
+        with open(filename,"w") as file:
+            for row in self.grid:
+                file.write(" ".join(map(str, row)) + "\n")
