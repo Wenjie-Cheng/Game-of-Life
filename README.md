@@ -1,7 +1,7 @@
 ## Badges
 
 
-| fair-software.eu recommendations | |
+
 | :-- | :--  |
 | (1/3) code repository              | [![github repo badge](https://img.shields.io/badge/github-repo-000.svg?logo=github&labelColor=gray&color=blue)](https://github.com/Wenjie-Cheng/Game-of-Life) |
 | (2/3) license                      | [![github license badge](https://img.shields.io/github/license/Wenjie-Cheng/a_game_of_life)](https://github.com/Wenjie-Cheng/Game-of-Life/blob/master/LICENSE) |
