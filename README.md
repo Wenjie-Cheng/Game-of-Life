@@ -1,6 +1,7 @@
 ## Badges
 
-
+| fair-software.eu recommendations | |
+| :-- | :--  |
 | (1/3) code repository              | [![github repo badge](https://img.shields.io/badge/github-repo-000.svg?logo=github&labelColor=gray&color=blue)](https://github.com/Wenjie-Cheng/Game-of-Life) |
 | (2/3) license                      | [![github license badge](https://img.shields.io/github/license/Wenjie-Cheng/a_game_of_life)](https://github.com/Wenjie-Cheng/Game-of-Life/blob/master/LICENSE) |
 | (3/3) checklist                    | [![workflow cii badge](https://bestpractices.coreinfrastructure.org/projects/GAme-of-Life/badge)](https://bestpractices.coreinfrastructure.org/projects/<replace-with-created-project-identifier>) |
@@ -18,11 +19,6 @@ git clone git@github.com:Wenjie-Cheng/Game-of-Life.git
 cd Game-of-Life
 python -m pip install .
 ```
-
-## Documentation
-
-Include a link to your project's full documentation here.
-
 
 
 ## Credits
