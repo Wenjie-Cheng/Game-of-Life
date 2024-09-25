@@ -1,10 +1,10 @@
 ## Badges
 
-| fair-software.eu recommendations | |
+| Badges | |
 | :-- | :--  |
-| (1/3) code repository              | [![github repo badge](https://img.shields.io/badge/github-repo-000.svg?logo=github&labelColor=gray&color=blue)](https://github.com/Wenjie-Cheng/Game-of-Life) |
-| (2/3) license                      | [![github license badge](https://img.shields.io/github/license/Wenjie-Cheng/a_game_of_life)](https://github.com/Wenjie-Cheng/Game-of-Life/blob/master/LICENSE) |
-| (3/3) checklist                    | [![workflow cii badge](https://bestpractices.coreinfrastructure.org/projects/GAme-of-Life/badge)](https://bestpractices.coreinfrastructure.org/projects/<replace-with-created-project-identifier>) |
+| (1/2) code repository              | [![github repo badge](https://img.shields.io/badge/github-repo-000.svg?logo=github&labelColor=gray&color=blue)](https://github.com/Wenjie-Cheng/Game-of-Life) |
+| (2/2) license                      | [![github license badge](https://img.shields.io/github/license/Wenjie-Cheng/Game-of-Life)](https://github.com/Wenjie-Cheng/Game-of-Life/blob/master/LICENSE) |
+
 
 ## How to use game_of_life
 
