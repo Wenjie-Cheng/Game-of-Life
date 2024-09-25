@@ -12,7 +12,7 @@ A Conway's Game of Life code. Part of Big Geodata Processing course
 
 ## Installation
 
-To install a_game_of_life from GitHub repository, do:
+To install Game-of-Life from GitHub repository, do:
 
 ```console
 git clone https://github.com/Wenjie-Cheng/Game-of-Life.git
