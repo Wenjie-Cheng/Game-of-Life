@@ -15,9 +15,9 @@ A Conway's Game of Life code. Part of Big Geodata Processing course
 To install a_game_of_life from GitHub repository, do:
 
 ```console
-git clone git@github.com:Wenjie-Cheng/Game-of-Life.git
+git clone https://github.com/Wenjie-Cheng/Game-of-Life.git
 cd Game-of-Life
-python -m pip install .
+python -m pip install
 ```
 
 
