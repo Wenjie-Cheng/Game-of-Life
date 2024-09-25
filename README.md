@@ -6,7 +6,7 @@
 | (2/2) license                      | [![github license badge](https://img.shields.io/github/license/Wenjie-Cheng/Game-of-Life)](https://github.com/Wenjie-Cheng/Game-of-Life/blob/master/LICENSE) |
 
 
-## How to use game_of_life
+## Description
 
 A Conway's Game of Life code. Part of Big Geodata Processing course
 
