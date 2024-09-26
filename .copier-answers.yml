@@ -7,7 +7,7 @@ full_name: Wenjie Cheng
 github_organization: Wenjie-Cheng
 keywords: Conway's Game of Life
 license: MIT
-package_name: a_game_of_life
+package_name: lifegame
 package_short_description: A Conway's Game of Life code. Part of Big Geodata Processing
     course
 template_profile: minimum
