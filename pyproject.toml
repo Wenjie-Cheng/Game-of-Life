@@ -104,7 +104,7 @@ no-lines-before = ["future","standard-library","third-party","first-party","loca
 current_version = "0.1.0"
 
 [[tool.bumpversion.files]]
-filename = "src/a_game_of_life/__init__.py"
+filename = "src/__init__.py"
 
 [[tool.bumpversion.files]]
 filename = "pyproject.toml"
