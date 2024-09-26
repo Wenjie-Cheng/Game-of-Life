@@ -17,7 +17,7 @@ To install Game-of-Life from GitHub repository, do:
 ```console
 git clone https://github.com/Wenjie-Cheng/Game-of-Life.git
 cd Game-of-Life
-python -m pip install
+python -m pip install .
 ```
 
 
