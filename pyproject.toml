@@ -25,7 +25,7 @@ dependencies = ["line_profiler","memory_profiler","bitarray"]
 description = "A Conway's Game of Life code. Part of Big Geodata Processing course"
 keywords = ["Conway's Game of Life"]
 license = {file = "LICENSE"}
-name = "a_game_of_life"
+name = "lifegame"
 readme = {file = "README.md", content-type = "text/markdown"}
 requires-python = ">=3.8"
 version = "0.1.0"
