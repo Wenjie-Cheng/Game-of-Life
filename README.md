@@ -20,6 +20,12 @@ cd Game-of-Life
 python -m pip install .
 ```
 
+Pypi package install 
+
+```console
+pip install lifebgp==0.1.0
+```
+
 
 ## Credits
 
