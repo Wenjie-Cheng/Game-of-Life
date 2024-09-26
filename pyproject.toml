@@ -22,7 +22,7 @@ classifiers = [
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
 ]
-dependencies = []
+dependencies = ["line_profiler","memory_profiler"]
 description = "A Conway's Game of Life code. Part of Big Geodata Processing course"
 keywords = ["Conway's Game of Life"]
 license = {file = "LICENSE"}
@@ -46,8 +46,8 @@ publishing = [
 ]
 
 [project.urls]
-Repository = "https://github.com/Wenjie-Cheng/a_game_of_life"
-Issues = "https://github.com/Wenjie-Cheng/a_game_of_life/issues"
+Repository = "https://github.com/Wenjie-Cheng/Game-of-Life"
+Issues = "https://github.com/Wenjie-Cheng/Game-of-Life/issues"
 
 
 
