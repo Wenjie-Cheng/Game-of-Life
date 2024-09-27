@@ -46,8 +46,6 @@ tick grid
 Life.tick_grid(n)
 ```
 
-write grid
-
 Input data
 
 ```console
