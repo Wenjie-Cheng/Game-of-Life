@@ -26,6 +26,34 @@ Pypi package install
 pip install lifebgp==0.1.0
 ```
 
+## Functions
+
+Import library
+
+```console
+from life import Life
+```
+
+Input data
+
+```console
+Life.(filename)
+```
+
+tick grid
+
+```console
+Life.tick_grid(n)
+```
+
+write grid
+
+Input data
+
+```console
+Life.write_grid("filename.txt")
+```
+
 
 ## Credits
 
